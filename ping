@@ -1,0 +1,3 @@
+If errorlevel 1(echo The site is not reachable)  
+Else 
+(echo The site could be pinged) 
